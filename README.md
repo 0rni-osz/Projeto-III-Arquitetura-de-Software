@@ -1,6 +1,6 @@
-# E-commerce — Projeto 3
+# Projeto III - Arquitetura de Software: Containerização com Docker, PostgreSQL e Arquitetura em Camadas
 
-API de e-commerce em Node.js + TypeScript com InversifyJS, Prisma (PostgreSQL), Docker Compose e arquitetura em camadas (`dev` e `test`).
+Este projeto consiste na evolução do backend de e-commerce para execução em containers utilizando Docker e Docker Compose, substituindo o banco de dados SQLite pelo PostgreSQL e implementando a consulta de pedidos respeitando a separação em camadas, dando continuidade aos princípios SOLID e à Injeção de Dependências com InversifyJS na matéria de Arquitetura de Software ministrada por Maikon Bueno.
 
 ## Como rodar
 
